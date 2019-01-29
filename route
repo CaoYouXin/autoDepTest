@@ -1,5 +1,5 @@
 location /autoDepTest/ {
-  # alias /root/github/autoDepTest/dist/;
-  alias /Users/cao/downloadRepos/autoDepTest/dist/;
+  alias /root/github/autoDepTest/dist/;
+  # alias /Users/cao/downloadRepos/autoDepTest/dist/;
   index index.js;
 }
