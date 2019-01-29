@@ -1,0 +1,20 @@
+{
+  "name": "autodeptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "bash -euxo pipefail build.sh",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaoYouXin/autoDepTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaoYouXin/autoDepTest/issues"
+  },
+  "homepage": "https://github.com/CaoYouXin/autoDepTest#readme"
+}
