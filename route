@@ -1,5 +1,5 @@
 location /autoDepTest/ {
-  # alias /var/www/autoDepTest/;
-  alias /usr/local/var/www/autoDepTest/;
+  alias /var/www/autoDepTest/;
+  # alias /Users/cao/downloadRepo/autoDepTest/dist/;
   index index.js;
 }
